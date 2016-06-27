@@ -1,0 +1,29 @@
+{
+  "name": "alx-bloc_pro",
+  "version": "1.0.0",
+  "description": "Alex Bloc Project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "console.log(\"Hello Alex\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aBontia/Bloc-Proj.git"
+  },
+  "keywords": [
+    "Bloc",
+    "First",
+    "project",
+    "AngularJS"
+  ],
+  "author": "Alex Bontia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aBontia/Bloc-Proj/issues"
+  },
+  "homepage": "https://github.com/aBontia/Bloc-Proj#readme"
+}
