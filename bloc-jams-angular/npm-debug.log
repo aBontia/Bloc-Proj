@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/opt/nvm/versions/node/v6.0.0/bin/node',
+1 verbose cli   '/usr/local/opt/nvm/versions/node/v6.0.0/bin/npm',
+1 verbose cli   'stars' ]
+2 info using npm@3.8.6
+3 info using node@v6.0.0
+4 verbose stack Error: 'npm stars' on your own user account requires auth
+4 verbose stack     at EventEmitter.<anonymous> (/usr/local/opt/nvm/versions/node/v6.0.0/lib/node_modules/npm/lib/stars.js:15:24)
+4 verbose stack     at _combinedTickCallback (internal/process/next_tick.js:67:7)
+4 verbose stack     at process._tickCallback (internal/process/next_tick.js:98:9)
+5 verbose cwd /home/nitrous/code/Bloc-Proj/bloc-jams-angular
+6 error Linux 4.2.0-35-generic
+7 error argv "/usr/local/opt/nvm/versions/node/v6.0.0/bin/node" "/usr/local/opt/nvm/versions/node/v6.0.0/bin/npm" "stars"
+8 error node v6.0.0
+9 error npm  v3.8.6
+10 error code ENEEDAUTH
+11 error need auth 'npm stars' on your own user account requires auth
+12 error need auth You need to authorize this machine using `npm adduser`
+13 verbose exit [ 1, true ]
